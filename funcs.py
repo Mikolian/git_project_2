@@ -1,4 +1,2 @@
-a = int(input())
-b = int(input())
-print(a+b)
-print(a-b)
+def summab(a=2,b=2):
+    print(a+b)
